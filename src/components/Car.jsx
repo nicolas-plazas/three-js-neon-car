@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { Mesh } from 'three';
 
 const Car = () => {
-	const gltf = useLoader(GLTFLoader, '/models/car/corvette/scene.gltf');
+	const gltf = useLoader(GLTFLoader, process.env.PUBLIC_URL + '/models/car/corvette/scene.gltf');
 
 	useEffect(() => {
         // Tamaño del coche [x, y, z]
