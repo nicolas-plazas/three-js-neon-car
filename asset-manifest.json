@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/three-js-neon-car/static/css/main.ff9ba0a8.css",
-    "main.js": "/three-js-neon-car/static/js/main.39412aff.js",
+    "main.js": "/three-js-neon-car/static/js/main.7c0efd4c.js",
     "index.html": "/three-js-neon-car/index.html",
     "main.ff9ba0a8.css.map": "/three-js-neon-car/static/css/main.ff9ba0a8.css.map",
-    "main.39412aff.js.map": "/three-js-neon-car/static/js/main.39412aff.js.map"
+    "main.7c0efd4c.js.map": "/three-js-neon-car/static/js/main.7c0efd4c.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9ba0a8.css",
-    "static/js/main.39412aff.js"
+    "static/js/main.7c0efd4c.js"
   ]
 }
