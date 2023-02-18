@@ -1,3 +1,7 @@
+# Car design credits
+Author: Martin Trafas.
+Model link: https://sketchfab.com/3d-models/chevrolet-corvette-c7-2b509d1bce104224b147c81757f6f43a
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
