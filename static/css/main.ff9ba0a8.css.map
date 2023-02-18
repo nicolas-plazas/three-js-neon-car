@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ff9ba0a8.css","mappings":"AAAA,uBACE,WAAY,CAEZ,QAAS,CAET,eAAgB,CAHhB,UAIF","sources":["style.css"],"sourcesContent":["html, body, #root, canvas {\n  height: 100%;\n  width: 100%;\n  margin: 0;\n  /* padding: 0; */\n  overflow: hidden;\n}"],"names":[],"sourceRoot":""}

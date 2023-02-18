@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk 2077 - Quadra V-Tech
+* source:	https://sketchfab.com/3d-models/cyberpunk-2077-quadra-v-tech-6c8bc8c16f2c4e739b2f182e9d060873
+* author:	Kreanym (https://sketchfab.com/kreanym)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk 2077 - Quadra V-Tech" (https://sketchfab.com/3d-models/cyberpunk-2077-quadra-v-tech-6c8bc8c16f2c4e739b2f182e9d060873) by Kreanym (https://sketchfab.com/kreanym) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
